@@ -3,5 +3,5 @@ All steps are in /notebooks and models are stored in the /models folder.
 
 Our predictions for the final data is in the base folder for comparison.
 
-Vincent Mottaqi: Preprocessing
+Mohammadsadeq Mottaqi: Preprocessing
 Joshua Rollins: Model optimization and debugging
